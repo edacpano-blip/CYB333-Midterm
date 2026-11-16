@@ -1,0 +1,6 @@
+port,state,service
+21,closed,ftp
+22,closed,ssh
+80,closed,http
+443,closed,https
+65432,open,unknown
